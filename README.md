@@ -20,3 +20,17 @@ In our project, we highlight the potential for predicting the United States pres
   - [Logistic Regression - With Feature Selection](https://github.com/mnguyen0226/ece_5424_project/blob/main/src/us_election_prediction_logistic_with_feature_selection.ipynb)
   - [Multi-layer Perceptron - With Feature Selection](https://github.com/mnguyen0226/ece_5424_project/blob/main/src/us_election_prediction_mlp_with_feature_selection.ipynb)
   - [Support Vector Machine - With Feature Selection](https://github.com/mnguyen0226/ece_5424_project/blob/main/src/us_election_prediction_logistic_with_feature_selection.ipynb)
+
+### Results
+
+Decision Tree Election Prediction Performance
+![](https://github.com/mnguyen0226/ece_5424_project/blob/main/imgs/dt_performance.png)
+
+Multi-layer Perceptron Election Prediction Performance
+![](https://github.com/mnguyen0226/ece_5424_project/blob/main/imgs/mlp_performance.png)
+
+Random Forest Election Prediction Performance
+![](https://github.com/mnguyen0226/ece_5424_project/blob/main/imgs/rf_performance.png)
+
+Support Vector Machine Election Prediction Performance
+![](https://github.com/mnguyen0226/ece_5424_project/blob/main/imgs/svm_performance.png)
